@@ -1,6 +1,6 @@
 # interactive-mesh-text
 
-An mouse position interactive mesh text code.
+A mouse position interactive mesh text code.
 
 ![plot](./images/image1.png)
 
